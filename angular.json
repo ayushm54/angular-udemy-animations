@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-udemy-animations"
+    }
+  },
+  "defaultProject": "angular-udemy-animations",
+  "cli": {
+    "analytics": "5700ee1e-d3b3-4438-b5f0-916805cda2d8"
+  }
 }
